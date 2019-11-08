@@ -1,13 +1,19 @@
 {
   "name": "webpack-boilerplate",
   "version": "1.0.0",
-  "description": "A boilerplate for webpack with loaders",
+  "description": "A boilerplate of webpack for developing your code with ease",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
     "build": "webpack --config webpack.prod.js"
   },
-  "keywords": [],
+  "keywords": [
+    "web development",
+    "webpack",
+    "babel",
+    "javascript",
+    "es6"
+  ],
   "author": "Me-ann Urgel",
   "license": "ISC",
   "devDependencies": {
