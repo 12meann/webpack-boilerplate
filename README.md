@@ -6,7 +6,8 @@
 2. Includes image loader and compress it.
 3. Supports ES6 syntax.
 4. Parse CSS and add vendor prefixes to CSS rules.
-5. Minify HTML, CSS, JS on production
+5. Minify HTML, CSS, JS on production.
+6. Bootstrap as the CSS Framework
 
 To use this repo:
 
